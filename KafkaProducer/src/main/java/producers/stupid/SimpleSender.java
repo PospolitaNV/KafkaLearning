@@ -21,7 +21,7 @@ import java.util.concurrent.ExecutionException;
 public class SimpleSender {
 
     @Value("${kafka.topic.simple}")
-    String topicName;
+    private String topicName;
 
     @Autowired
     private KafkaTemplate<String, String> kafkaTemplate;

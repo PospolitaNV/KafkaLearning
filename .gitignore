@@ -88,5 +88,4 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 /.idea/thriftCompiler.xml
-.idea/thriftCompiler.xml
 .idea/vcs.xml
