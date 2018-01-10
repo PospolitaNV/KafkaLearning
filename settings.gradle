@@ -1,0 +1,5 @@
+rootProject.name = 'KafkaLearning'
+include 'KafkaConsumer'
+include 'KafkaSmartProducer'
+include 'KafkaStupidProducer'
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="KafkaConsumer_main" target="1.8" />
+      <module name="KafkaConsumer_test" target="1.8" />
+      <module name="KafkaLearning_main" target="1.8" />
+      <module name="KafkaLearning_test" target="1.8" />
+      <module name="KafkaSmartProducer_main" target="1.8" />
+      <module name="KafkaSmartProducer_test" target="1.8" />
+      <module name="KafkaStupidProducer_main" target="1.8" />
+      <module name="KafkaStupidProducer_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
