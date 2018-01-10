@@ -1,0 +1,14 @@
+spring:
+  kafka:
+    bootstrap-servers:
+      - localhost:9092
+
+kafka:
+  topic:
+    simple: simpleTopicName
+    domain: domainTopicName
+    visual: visualTopicName
+  groupId:
+    simple: simple
+    domain: domain
+    visual: visual

@@ -6,14 +6,11 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaConsumer/KafkaConsumer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaConsumer/KafkaConsumer_main.iml" group="KafkaConsumer" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaConsumer/KafkaConsumer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaConsumer/KafkaConsumer_test.iml" group="KafkaConsumer" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaLearning.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaProducer/KafkaLearning-KafkaProducer.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaProducer/KafkaLearning-KafkaProducer.iml" group="KafkaProducer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaProducer/KafkaLearning-KafkaProducer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaProducer/KafkaLearning-KafkaProducer_main.iml" group="KafkaProducer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaProducer/KafkaLearning-KafkaProducer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaProducer/KafkaLearning-KafkaProducer_test.iml" group="KafkaProducer" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaLearning_main.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaLearning_main.iml" group="KafkaLearning" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaLearning_test.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaLearning_test.iml" group="KafkaLearning" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaSmartProducer.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaSmartProducer.iml" group="KafkaSmartProducer" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaSmartProducer/KafkaSmartProducer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaSmartProducer/KafkaSmartProducer_main.iml" group="KafkaSmartProducer" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaSmartProducer/KafkaSmartProducer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaSmartProducer/KafkaSmartProducer_test.iml" group="KafkaSmartProducer" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaStupidProducer.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaStupidProducer.iml" group="KafkaStupidProducer" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaStupidProducer/KafkaStupidProducer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaStupidProducer/KafkaStupidProducer_main.iml" group="KafkaStupidProducer" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaStupidProducer/KafkaStupidProducer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaStupidProducer/KafkaStupidProducer_test.iml" group="KafkaStupidProducer" />
     </modules>
   </component>
 </project>

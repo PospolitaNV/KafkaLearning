@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="KafkaConsumer_main" target="1.8" />
       <module name="KafkaConsumer_test" target="1.8" />
+      <module name="KafkaLearning-KafkaProducer_main" target="1.8" />
+      <module name="KafkaLearning-KafkaProducer_test" target="1.8" />
       <module name="KafkaLearning_main" target="1.8" />
       <module name="KafkaLearning_test" target="1.8" />
       <module name="KafkaSmartProducer_main" target="1.8" />

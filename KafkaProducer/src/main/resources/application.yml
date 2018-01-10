@@ -1,0 +1,15 @@
+spring:
+  kafka:
+    bootstrap-servers:
+      - localhost:9092
+
+kafka:
+  topic:
+    simple: simpleTopicName
+    domain: domainTopicName
+    visual: visualTopicName
+  producer:
+    sendRate:
+      simple: 1000
+      domain: 1000
+      visual: 1000

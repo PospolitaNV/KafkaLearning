@@ -10,8 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/KafkaConsumer" />
-            <option value="$PROJECT_DIR$/KafkaSmartProducer" />
-            <option value="$PROJECT_DIR$/KafkaStupidProducer" />
+            <option value="$PROJECT_DIR$/KafkaProducer" />
           </set>
         </option>
       </GradleProjectSettings>
