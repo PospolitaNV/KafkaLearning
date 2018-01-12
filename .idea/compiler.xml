@@ -7,6 +7,8 @@
     <bytecodeTargetLevel>
       <module name="KafkaConsumer_main" target="1.8" />
       <module name="KafkaConsumer_test" target="1.8" />
+      <module name="KafkaDomainModel_main" target="1.8" />
+      <module name="KafkaDomainModel_test" target="1.8" />
       <module name="KafkaLearning-KafkaProducer_main" target="1.8" />
       <module name="KafkaLearning-KafkaProducer_test" target="1.8" />
       <module name="KafkaLearning_main" target="1.8" />

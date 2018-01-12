@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaConsumer.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaConsumer.iml" group="KafkaConsumer" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaConsumer/KafkaConsumer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaConsumer/KafkaConsumer_main.iml" group="KafkaConsumer" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaConsumer/KafkaConsumer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaConsumer/KafkaConsumer_test.iml" group="KafkaConsumer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaDomainModel.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaDomainModel.iml" group="KafkaDomainModel" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaDomainModel/KafkaDomainModel_main.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaDomainModel/KafkaDomainModel_main.iml" group="KafkaDomainModel" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaDomainModel/KafkaDomainModel_test.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaDomainModel/KafkaDomainModel_test.iml" group="KafkaDomainModel" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaLearning.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaProducer/KafkaLearning-KafkaProducer.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaProducer/KafkaLearning-KafkaProducer.iml" group="KafkaProducer" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/KafkaProducer/KafkaLearning-KafkaProducer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/KafkaProducer/KafkaLearning-KafkaProducer_main.iml" group="KafkaProducer" />

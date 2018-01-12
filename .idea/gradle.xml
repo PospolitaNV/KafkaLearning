@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/KafkaConsumer" />
+            <option value="$PROJECT_DIR$/KafkaDomainModel" />
             <option value="$PROJECT_DIR$/KafkaProducer" />
           </set>
         </option>
