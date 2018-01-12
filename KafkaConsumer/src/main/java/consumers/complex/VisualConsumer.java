@@ -3,6 +3,7 @@ package consumers.complex;
 
 import lombok.extern.slf4j.Slf4j;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
+import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Component;
 
@@ -14,7 +15,8 @@ import java.util.Random;
 /**
  * Changes color every time when message appears.
  */
-//@Component
+@ConditionalOnProperty(name = "consumer.visual.enabled", havingValue = "true")
+@Component
 @Slf4j
 public class VisualConsumer {
 

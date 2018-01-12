@@ -2,6 +2,13 @@ spring:
   kafka:
     bootstrap-servers:
       - localhost:9092
+consumer:
+  visual:
+    enabled: true
+  domain:
+    enabled: false
+  simple:
+    enabled: false
 
 kafka:
   topic:
