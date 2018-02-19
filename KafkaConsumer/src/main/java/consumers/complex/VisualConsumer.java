@@ -35,7 +35,7 @@ public class VisualConsumer {
         frame.setVisible(true);
     }
 
-    @KafkaListener(topics = {"${kafka.topic.simple}", "${kafka.topic.domain}"}, groupId = "${kafka.groupId.visual}")
+    @KafkaListener(topics = {"${kafka.topic.visual}"}, groupId = "${kafka.groupId.visual}")
     public void listen(ConsumerRecord<?, ?> record) {
         frame.getContentPane().setBackground(new Color(random.nextInt(255),random.nextInt(255),random.nextInt(255)));
         log.info(record.value().toString());
